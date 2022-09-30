@@ -19,7 +19,7 @@ The package py_image_processing is used to:
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install py_image_processing
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install py_image_processing (test version)
 
 ```bash
 pip install -i https://test.pypi.org/simple/ py-image-processing
