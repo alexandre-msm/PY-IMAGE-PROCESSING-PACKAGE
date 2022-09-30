@@ -1,4 +1,4 @@
-# image_processing
+# py_image_processing
 
 Description.
 
