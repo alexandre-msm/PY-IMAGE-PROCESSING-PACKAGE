@@ -2,7 +2,7 @@
 
 Description.
 
-The package image_processing is used to:
+The package py_image_processing is used to:
 
 	Processing:
 	- Histogram matching
