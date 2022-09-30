@@ -14,7 +14,7 @@ setup(
     description="The package 'py_image_processing' combine the colors of the img 2 in the img 1, basically.",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="my_github_repository_project_link",
+    url="https://github.com/alexandre-msm/PY-IMAGE-PROCESSING-PACKAGE",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
